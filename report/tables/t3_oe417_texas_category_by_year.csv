@@ -1,0 +1,14 @@
+report_year,cyber,fuel_supply,other_unknown,physical_attack_vandalism,supply_adequacy_load_shed,suspicious_activity,system_operations_equipment,transmission_distribution_islanding,weather_natural_disaster
+2011,0,1,0,3,12,1,0,0,7
+2012,1,1,0,3,1,0,0,0,6
+2013,0,2,0,0,0,0,0,0,3
+2014,0,3,0,5,8,0,0,0,4
+2015,0,0,2,2,0,0,4,0,13
+2016,0,0,0,2,5,0,0,1,6
+2017,0,0,0,1,0,1,1,0,11
+2018,0,0,0,1,0,2,3,2,7
+2019,0,0,0,6,0,2,2,10,19
+2020,0,0,0,3,0,5,8,7,25
+2021,3,2,0,7,1,8,15,4,51
+2022,3,0,0,9,1,11,14,6,9
+2023,1,0,6,19,0,11,8,3,15

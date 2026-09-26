@@ -1,0 +1,1 @@
+{ "name": "tpec-2027-texas-ot-incident-pqc", "version": "0.1.0", "private": true, "license": "MIT", "dependencies": { "docx": "^9.0.0" } }

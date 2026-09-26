@@ -1,0 +1,43 @@
+{
+  "_comment": "Ordered regex rules on the lower-cased OE-417 event type; the first match wins. Cyber first so mixed labels count as cyber. 'Suspected telecommunications attack' is kept in physical/other attack, not cyber. Author-confirmed 2026-09-26.",
+  "rules": [
+    [
+      "cyber",
+      "cyber"
+    ],
+    [
+      "physical_attack_vandalism",
+      "physical|attack|vandal|sabot|theft|sabatoge|physcial"
+    ],
+    [
+      "suspicious_activity",
+      "suspicious|suspcious"
+    ],
+    [
+      "weather_natural_disaster",
+      "weather|storm|hurricane|wind|snow|ice|thunder|tornad|natural disaster|earthquake|wild ?fire|lightning|hail|cold|heat|nor'easter|ts isaac|flood"
+    ],
+    [
+      "fuel_supply",
+      "fuel supply"
+    ],
+    [
+      "supply_adequacy_load_shed",
+      "load shed|public appeal|generation inadequacy|voltage reduction|energy deficiency|firm system"
+    ],
+    [
+      "system_operations_equipment",
+      "system operations|equipment|failure|fault|operational|malfunction|trip"
+    ],
+    [
+      "transmission_distribution_islanding",
+      "transmission|distribution|islanding|separation|interruption|outage|disruption"
+    ],
+    [
+      "other_unknown",
+      ".*"
+    ]
+  ],
+  "control_center_alert_regex": "loss of monitoring or control|loss of monitoring and control|loss of interpersonal communication|control center",
+  "cyber_alert_regex": "cyber"
+}

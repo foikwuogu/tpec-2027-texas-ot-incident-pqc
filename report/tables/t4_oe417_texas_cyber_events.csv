@@ -1,0 +1,12 @@
+report_year,date_began,area_affected,nerc_region,event_type_raw,alert_criteria,demand_loss_mw,customers_affected
+2012,2012-01-17 00:00:00,"Austin, Texas",TRE,Suspected Cyber Attack,,,0
+2017,2017-02-17 00:00:00,Missouri: Arkansas: Oklahoma: Texas:,SPP,System Operations,Cyber event that could potentially impact electric power system adequacy or reliability,0,0
+2020,2020-02-11 00:00:00,Texas: Sterling County;,TRE,System Operations,Cyber event that could potentially impact electric power system adequacy or reliability.,0,0
+2020,2020-11-20 00:00:00,Texas: Kentucky: Arizona: New Mexico: Oregon: Washington:,TRE,System Operations,Cyber event that causes interruptions of electrical system operations.,0,Unknown
+2021,2021-02-16 00:00:00,New Jersey: Pennsylvania: Texas: California: Illinois: Colorado:,RF,Cyber Event,Cyber event that could potentially impact electric power system adequacy or reliability.,Unknown,0
+2021,2021-02-19 00:00:00,Texas:,TRE,Cyber Event,Cyber event that causes interruptions of electrical system operations.,Unknown,0
+2021,2021-06-15 00:00:00,Texas:,TRE,Cyber Event,Cyber event that could potentially impact electric power system adequacy or reliability.,Unknown,Unknown
+2022,2022-01-18 00:00:00,Texas: Harris County;,TRE,Cyber Event,Cyber Security Incident that was an attempt to compromise a High or Medium Impact Bulk Electric System Cyber System or their associated Electronic Access Control or Monitoring Systems,0,0
+2022,2022-03-06 00:00:00,Texas: Cameron County;,TRE,Cyber Event,Cyber event that could potentially impact electric power system adequacy or reliability,0,0
+2022,2022-10-14 00:00:00,Texas: Bee County;,RE ,Cyber Event,Reportable Cyber Security Incident,0,0
+2023,2023-02-21 00:00:00,Texas: Cameron County;,TRE,Cyber Event,Cyber event that could potentially impact electric power system adequacy or reliability,0.0,0.0

@@ -1,0 +1,53 @@
+{
+  "_comment": "Narrative screen for control-system and cyber terms. A hit is a candidate only; the author rules on each one in data/processed/keyword_hits_review.csv. Exclusions remove non-cyber senses (e.g. 'water intrusion'). Author-confirmed 2026-09-26.",
+  "cyber": [
+    "cyber",
+    "cyber[- ]?(attack|attacks|security|incident|event|intrusion|threat)s?",
+    "hack(ed|er|ers|ing)",
+    "malware",
+    "ransomware",
+    "phishing",
+    "virus",
+    "unauthori[sz]ed (access|entry|user|login|logon)",
+    "network intrusion",
+    "compromised (account|credential|credentials|system|network|password)",
+    "VPN",
+    "remote (login|logon|session|desktop)"
+  ],
+  "control_system": [
+    "SCADA",
+    "RTU",
+    "PLC",
+    "HMI",
+    "DCS",
+    "telemetry",
+    "control system",
+    "control room",
+    "controller"
+  ],
+  "comms_software": [
+    "loss of communications?",
+    "lost communications?",
+    "communications? (loss|failure|outage)",
+    "software",
+    "firmware",
+    "programming",
+    "logic (error|change)",
+    "setpoint",
+    "set point"
+  ],
+  "exclude_context": [
+    "water intrusion",
+    "moisture intrusion",
+    "intrusion of water",
+    "hydrocarbon intrusion",
+    "root intrusion",
+    "flow controller",
+    "pressure controller",
+    "level controller",
+    "temperature controller",
+    "controller valve"
+  ],
+  "_note_removed_terms": "'remote access' dropped (physical site access in all national hits); 'cyber\\w*' replaced by explicit forms (matched 'Cybertel' answering service); 'hack\\w*' replaced (matched 'Hackett Road').",
+  "_initial_false_positives": 3
+}

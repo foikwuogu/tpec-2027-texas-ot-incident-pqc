@@ -1,0 +1,192 @@
+event_type_raw,event_category,n
+Severe Weather,weather_natural_disaster,831
+Vandalism,physical_attack_vandalism,518
+System Operations,system_operations_equipment,410
+Suspicious Activity,suspicious_activity,194
+Transmission Interruption,transmission_distribution_islanding,177
+Severe Weather - Thunderstorms,weather_natural_disaster,97
+Suspected Physical Attack,physical_attack_vandalism,87
+Fuel Supply Deficiency,fuel_supply,50
+Severe Weather/Transmission Interruption,weather_natural_disaster,48
+Actual Physical Attack,physical_attack_vandalism,45
+- Weather or natural disaster,weather_natural_disaster,43
+Physical Attack - Vandalism,physical_attack_vandalism,40
+Sabotage,physical_attack_vandalism,36
+Physical Attack,physical_attack_vandalism,30
+Physical Attack; Vandalism,physical_attack_vandalism,30
+Electrical System Separation (Islanding),transmission_distribution_islanding,29
+Public Appeal to Reduce Electricity Usage,supply_adequacy_load_shed,27
+- Other,other_unknown,26
+Actual Physical Attack/Vandalism,physical_attack_vandalism,24
+Cyber Event,cyber,23
+- Suspicious activity,suspicious_activity,23
+Severe Weather - Hurricane Sandy,weather_natural_disaster,21
+- Vandalism,physical_attack_vandalism,17
+Suspected Physical Attack - Vandalism,physical_attack_vandalism,16
+Generation Inadequacy,supply_adequacy_load_shed,15
+Weather,weather_natural_disaster,14
+Suspected Cyber Attack,cyber,13
+Severe Thunderstorms,weather_natural_disaster,13
+Severe Weather - Winter Storm,weather_natural_disaster,13
+Public Appeal due to Severe Weather - Cold,weather_natural_disaster,12
+Fuel Supply Emergency - Coal,fuel_supply,11
+Natural Disaster,weather_natural_disaster,11
+Severe Weather - Winter,weather_natural_disaster,11
+Winter Storm,weather_natural_disaster,10
+Physcial Attack; Vandalism,physical_attack_vandalism,10
+Severe Weather/Distribution Interruption,weather_natural_disaster,10
+- Generator loss or failure,system_operations_equipment,9
+- Unknown,other_unknown,9
+Severe Weather - Snow/Ice,weather_natural_disaster,8
+- Vandalism - Theft,physical_attack_vandalism,8
+Islanding,transmission_distribution_islanding,7
+Load Shed,supply_adequacy_load_shed,7
+Other,other_unknown,7
+Severe Weather - Wind,weather_natural_disaster,7
+Major Storm,weather_natural_disaster,6
+- Vandalism - Theft,physical_attack_vandalism,6
+- Transmission equipment failure,system_operations_equipment,6
+Distribution Interruption,transmission_distribution_islanding,6
+Fuel Supply Deficiency (Coal),fuel_supply,6
+Severe Weather/Transmisison Interruption,weather_natural_disaster,6
+Severe Weather - Ice/Snow,weather_natural_disaster,6
+Voltage Reduction due to Severe Weather - Cold,weather_natural_disaster,6
+Severe Weather- High Winds,weather_natural_disaster,5
+Actual Physical Event,physical_attack_vandalism,5
+Generation Inadequacy/Load Shed,supply_adequacy_load_shed,5
+Fuel Supply Emergency - Natural Gas,fuel_supply,5
+Severe Weather - Hurricane Isaac,weather_natural_disaster,4
+Severe Weather - Wind Storm,weather_natural_disaster,4
+Electrical System Islanding,transmission_distribution_islanding,4
+Suspicious activity,suspicious_activity,4
+Fuel Supply Deficiency (Water),fuel_supply,3
+Cyber Attack,cyber,3
+- Vandalism - Suspicious activity,physical_attack_vandalism,3
+Physcial Attack; Sabotage,physical_attack_vandalism,3
+Public Appeal to Reduce Electricity Usage - Wild Fires,weather_natural_disaster,3
+Vandalism/Theft,physical_attack_vandalism,3
+Voltage Reduction,supply_adequacy_load_shed,3
+Severe Weather - Tornadoes,weather_natural_disaster,3
+Transmission System Interruption,transmission_distribution_islanding,3
+Severe Weather - High Winds,weather_natural_disaster,3
+- Theft,physical_attack_vandalism,3
+Equipment Malfunction,system_operations_equipment,3
+Public Appeal,supply_adequacy_load_shed,3
+Severe Weather - Winter Storm Nemo,weather_natural_disaster,3
+- Failure at high voltage substation or switchyard - Other,system_operations_equipment,2
+- Failure at high voltage substation or switchyard,system_operations_equipment,2
+- Vandalism - Theft - Suspicious activity,physical_attack_vandalism,2
+- Unknown - Failure at high voltage substation or switchyard,system_operations_equipment,2
+- Failure at high voltage substation or switchyard - Weather or natural disaster,weather_natural_disaster,2
+Transmission Disruption,transmission_distribution_islanding,2
+System Wide Voltage Reduction,supply_adequacy_load_shed,2
+Severe Weather - Tornados,weather_natural_disaster,2
+Severe Weather - Nor'easter,weather_natural_disaster,2
+Potential Physical Attack,physical_attack_vandalism,2
+- Physical attack - Vandalism - Other,physical_attack_vandalism,2
+- Physical attack - Vandalism,physical_attack_vandalism,2
+- Physical attack - Vandalism - Suspicious activity,physical_attack_vandalism,2
+- Weather or natural disaster - Other,weather_natural_disaster,2
+Earthquake,weather_natural_disaster,2
+- Threat of physical attack,physical_attack_vandalism,2
+Equipment Failure,system_operations_equipment,2
+Electrical System Separation (Islanding); Severe Weather,weather_natural_disaster,2
+Equipment Trip & Failure,system_operations_equipment,2
+Fuel Supply Emergencies (Coal),fuel_supply,2
+Fuel Supply Deficiency (Natural Gas),fuel_supply,2
+- Physical attack,physical_attack_vandalism,2
+- Physical attack - Vandalism - Suspicious activity,physical_attack_vandalism,2
+Severe Weather - Hailstorm,weather_natural_disaster,2
+Severe Weather - Heavy Winds,weather_natural_disaster,2
+Public Appeal to Reduce Electricity Usage; Load Shed of 100 MW,supply_adequacy_load_shed,2
+Physical Attack - Suspcious Activity,physical_attack_vandalism,2
+Physical Attack; Copper Theft,physical_attack_vandalism,2
+Fuel Supply Emergency - Hydro,fuel_supply,2
+Natural Disaster/Transmission Interruption,weather_natural_disaster,2
+Load shedding of 100 Megawatts,supply_adequacy_load_shed,2
+Voltage Reduction; Public Appeal; Load Shed 100+MW due to Severe Weather - Cold,weather_natural_disaster,2
+Vandalsim,physical_attack_vandalism,2
+Suspected physical attack,physical_attack_vandalism,2
+Energy Deficiency Alert,supply_adequacy_load_shed,1
+Equipment Failure; Transmission System Interruption,system_operations_equipment,1
+Firm System Load Shed,supply_adequacy_load_shed,1
+- Physical attack - Vandalism - Theft - Suspicious activity,physical_attack_vandalism,1
+- Physical attack - Other,physical_attack_vandalism,1
+- Physical attack - Generator loss or failure,physical_attack_vandalism,1
+- Fuel supply emergency,fuel_supply,1
+- Cyber event (information technology),cyber,1
+Distribution Interruption - Unknown Cause,transmission_distribution_islanding,1
+Electrical Fault at Generator,system_operations_equipment,1
+Electrical System Separation (Islanding,transmission_distribution_islanding,1
+Distribution System Interruption,transmission_distribution_islanding,1
+Cyber Event with Potential to Cause Impact,cyber,1
+Cold Weather Event,weather_natural_disaster,1
+- Suspicious activity - Transmission equipment failure,suspicious_activity,1
+- Theft - Suspicious activity,physical_attack_vandalism,1
+- Theft - Other,physical_attack_vandalism,1
+- Unknown - Vandalism,physical_attack_vandalism,1
+- Vandalism - Theft - Suspicious activity - Other,physical_attack_vandalism,1
+Fuel Supply Emergency (Natural Gas),fuel_supply,1
+Fuel Supply Emergency (Natural Gas & Fuel Oil),fuel_supply,1
+"Severe Weather - Cold Front, High Winds",weather_natural_disaster,1
+Severe Weather - Hail Storm,weather_natural_disaster,1
+Severe Weather - Fog,weather_natural_disaster,1
+Sabotage - Operator Action(s),physical_attack_vandalism,1
+Sabotage; Vandalism,physical_attack_vandalism,1
+Sever Weather,weather_natural_disaster,1
+Public Appeal to Reduce Energy Usage,supply_adequacy_load_shed,1
+Physical Attack - Sabatoge,physical_attack_vandalism,1
+Physical Attack; Vandalism & Sabotage,physical_attack_vandalism,1
+Public Appeal - Heatwave,weather_natural_disaster,1
+"Physical Attack - Vandalism, Theft",physical_attack_vandalism,1
+Generation Inadequacy; Load Shed,supply_adequacy_load_shed,1
+Fuel Supply Emergency due to Severe Weather - Cold,weather_natural_disaster,1
+Fuel Supply Emergency - Petroleum,fuel_supply,1
+Load Shed 100+MW,supply_adequacy_load_shed,1
+Load Shed 100+ MW,supply_adequacy_load_shed,1
+Generator Trip; Voltage Reduction,supply_adequacy_load_shed,1
+Ice Storm,weather_natural_disaster,1
+Load Shed/Severe Weather  - Lightning Storm,weather_natural_disaster,1
+Load Shed of 100+ MW,supply_adequacy_load_shed,1
+Load Shed/ Automatic undervoltage relay action,supply_adequacy_load_shed,1
+Load Shed of 100+ MW Under Emergency Operational Policy,supply_adequacy_load_shed,1
+"Loss of Part of a High Voltage Substation, Physical Attack",physical_attack_vandalism,1
+Loss of 300+ MW Load; Severe Weather - Thunderstorms,weather_natural_disaster,1
+Loss of 300+ MW Load,other_unknown,1
+Loss of Power from Wholesale Provider; Major Distribution Disruption,transmission_distribution_islanding,1
+Major System Interruption/Load Shed,supply_adequacy_load_shed,1
+Operational Failure of Electrical System,system_operations_equipment,1
+Operational Failure/Equipment Malfunction,system_operations_equipment,1
+Operational Failure; Storm Damage,weather_natural_disaster,1
+Generator Trip; Load Shed 100+ MW,supply_adequacy_load_shed,1
+Generator Trip; Load Shed,supply_adequacy_load_shed,1
+Generation Inadequacy; Load Shed; Electrical System Separation (Islanding),supply_adequacy_load_shed,1
+Severe Weather - Dust Storm; Load Shed Event,weather_natural_disaster,1
+Severe Weather - Cold,weather_natural_disaster,1
+Severe Weather; Equipment Failure,weather_natural_disaster,1
+Severe Weather - Wind & Storms,weather_natural_disaster,1
+Severe Weather - Wind & Rain,weather_natural_disaster,1
+Severe Weather - Lightning Strike,weather_natural_disaster,1
+Severe Weather - Lightning,weather_natural_disaster,1
+Severe Weather - Ice and Snow Storm,weather_natural_disaster,1
+Severe Weather - Ice,weather_natural_disaster,1
+Severe Weather - TS Isaac,weather_natural_disaster,1
+Severe Weather - Storms and Wind,weather_natural_disaster,1
+Severe Weather - Thunderstorm,weather_natural_disaster,1
+Severe Weather - Thunderstorms/High Winds,weather_natural_disaster,1
+Suspected Physical Attack - Suspcious Activity,physical_attack_vandalism,1
+Transmission/Distribution Interruption; Load Shed; Generation Inadequacy,supply_adequacy_load_shed,1
+Transmission Level Interruption,transmission_distribution_islanding,1
+Transmission Level Outage,transmission_distribution_islanding,1
+System-wide voltage reductions of 3 percent or more,supply_adequacy_load_shed,1
+Suspected Sabotage,physical_attack_vandalism,1
+Suspected Telecommunications Attack,physical_attack_vandalism,1
+Transmission Interruption/Distribution Interruption,transmission_distribution_islanding,1
+Vandalism; Equipment Fault,physical_attack_vandalism,1
+Vandalism; Theft,physical_attack_vandalism,1
+Uncontrolled Loss of 300 Megawatts,other_unknown,1
+Vandalism - Copper Wire Theft,physical_attack_vandalism,1
+Voltage Reduction; Public Appeal due to Severe Weather - Cold,weather_natural_disaster,1
+Voltage Reduction; Line and Generator Trip,supply_adequacy_load_shed,1
+Weather or Natural Disaster,weather_natural_disaster,1
+Weather or natural disaster - Other,weather_natural_disaster,1

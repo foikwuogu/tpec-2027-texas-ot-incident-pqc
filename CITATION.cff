@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the Zenodo record below and the TechRxiv preprint."
+type: dataset
+title: "Counting What Incident Reports Cannot See: Cyber, Control-System and Quantum-Readiness Signals in Public Data for Texas Grid and Pipeline OT"
+version: "1.0.0"
+authors:
+  - family-names: "Ikwuogu"
+    given-names: "Friday Ogochukwu"
+    orcid: "https://orcid.org/0009-0009-2222-1318"
+    affiliation: "Independent Researcher, Odessa, Texas, USA"
+license: CC-BY-4.0
+repository-code: "https://github.com/foikwuogu/tpec-2027-texas-ot-incident-pqc"
+doi: "10.5281/zenodo.22982191"
+keywords: ["operational technology", "incident reporting", "OE-417", "PHMSA", "SCADA", "post-quantum cryptography", "Texas"]

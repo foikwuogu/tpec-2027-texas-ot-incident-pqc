@@ -1,0 +1,26 @@
+{
+  "_comment": "Single source of author identity. Single-author paper (author decision 2026-09-26).",
+  "authors": [
+    {
+      "name": "Friday Ogochukwu Ikwuogu",
+      "family": "Ikwuogu",
+      "given": "Friday Ogochukwu",
+      "orcid": "0009-0009-2222-1318",
+      "email": "Friday.ikwuogu@gmail.com",
+      "affiliation": "Independent Researcher, Odessa, Texas, USA",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Software",
+        "Data curation",
+        "Formal analysis",
+        "Validation",
+        "Visualization",
+        "Writing - original draft",
+        "Writing - review and editing"
+      ],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

@@ -1,0 +1,4 @@
+system,national,tx,tx_share_pct,tx_scada_in_place,tx_scada_in_place_pct,tx_scada_detected,tx_scada_detected_pct_of_in_place,tx_scada_confirmed,tx_scada_confirmed_pct_of_in_place,national_scada_detected_pct_of_in_place,tx_kw_control_system,tx_kw_comms_software,tx_kw_any,tx_kw_any_pct,tx_kw_cyber,tx_cause_incorrect_operation,tx_cause_detail_control_relief_malfunction,tx_cause_detail_intentional_damage,tx_cpm_in_place,tx_cpm_detected_pct_of_in_place
+gas_distribution,1592,141,8.9,61,43.3,9,14.8,7,11.5,19.0,1,0,1,0.7,0,9,1,2,,
+gas_transmission_gathering,2053,324,15.8,271,83.6,120,44.3,133,49.1,38.1,49,25,67,20.7,0,20,79,0,,
+hazardous_liquid,6009,2458,40.9,1888,76.8,347,18.4,301,15.9,19.5,258,32,270,11.0,0,345,151,3,1041.0,9.3

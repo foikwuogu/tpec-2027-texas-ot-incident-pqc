@@ -1,0 +1,179 @@
+QA report - TPEC 2027 Texas OT incident/PQC paper
+
+CHECK keyword flags align with incidents: PASS
+CHECK TX systems sum: PASS
+CHECK no cyber narrative in TX: PASS
+CHECK OE categories sum: PASS
+
+{
+ "phmsa": {
+  "national_reports": 9654,
+  "year_min": 2010,
+  "year_max": 2026,
+  "latest_incident_date": "2026-08-25",
+  "file_date": "2026-09-07",
+  "national_narratives_with_cyber_term": 0,
+  "tx_offshore_reports_excluded": 14,
+  "by_system": {
+   "gas_distribution": {
+    "system": "gas_distribution",
+    "national": 1592,
+    "tx": 141,
+    "tx_share_pct": 8.9,
+    "tx_scada_in_place": 61,
+    "tx_scada_in_place_pct": 43.3,
+    "tx_scada_detected": 9,
+    "tx_scada_detected_pct_of_in_place": 14.8,
+    "tx_scada_confirmed": 7,
+    "tx_scada_confirmed_pct_of_in_place": 11.5,
+    "national_scada_detected_pct_of_in_place": 19.0,
+    "tx_kw_control_system": 1,
+    "tx_kw_comms_software": 0,
+    "tx_kw_any": 1,
+    "tx_kw_any_pct": 0.7,
+    "tx_kw_cyber": 0,
+    "tx_cause_incorrect_operation": 9,
+    "tx_cause_detail_control_relief_malfunction": 1,
+    "tx_cause_detail_intentional_damage": 2
+   },
+   "gas_transmission_gathering": {
+    "system": "gas_transmission_gathering",
+    "national": 2053,
+    "tx": 324,
+    "tx_share_pct": 15.8,
+    "tx_scada_in_place": 271,
+    "tx_scada_in_place_pct": 83.6,
+    "tx_scada_detected": 120,
+    "tx_scada_detected_pct_of_in_place": 44.3,
+    "tx_scada_confirmed": 133,
+    "tx_scada_confirmed_pct_of_in_place": 49.1,
+    "national_scada_detected_pct_of_in_place": 38.1,
+    "tx_kw_control_system": 49,
+    "tx_kw_comms_software": 25,
+    "tx_kw_any": 67,
+    "tx_kw_any_pct": 20.7,
+    "tx_kw_cyber": 0,
+    "tx_cause_incorrect_operation": 20,
+    "tx_cause_detail_control_relief_malfunction": 79,
+    "tx_cause_detail_intentional_damage": 0
+   },
+   "hazardous_liquid": {
+    "system": "hazardous_liquid",
+    "national": 6009,
+    "tx": 2458,
+    "tx_share_pct": 40.9,
+    "tx_scada_in_place": 1888,
+    "tx_scada_in_place_pct": 76.8,
+    "tx_scada_detected": 347,
+    "tx_scada_detected_pct_of_in_place": 18.4,
+    "tx_scada_confirmed": 301,
+    "tx_scada_confirmed_pct_of_in_place": 15.9,
+    "national_scada_detected_pct_of_in_place": 19.5,
+    "tx_kw_control_system": 258,
+    "tx_kw_comms_software": 32,
+    "tx_kw_any": 270,
+    "tx_kw_any_pct": 11.0,
+    "tx_kw_cyber": 0,
+    "tx_cause_incorrect_operation": 345,
+    "tx_cause_detail_control_relief_malfunction": 151,
+    "tx_cause_detail_intentional_damage": 3,
+    "tx_cpm_in_place": 1041,
+    "tx_cpm_detected_pct_of_in_place": 9.3
+   }
+  },
+  "tx_total": 2923,
+  "tx_cause_categories": {
+   "EQUIPMENT FAILURE": 1238,
+   "CORROSION FAILURE": 704,
+   "INCORRECT OPERATION": 374,
+   "EXCAVATION DAMAGE": 168,
+   "MATERIAL FAILURE OF PIPE OR WELD": 160,
+   "NATURAL FORCE DAMAGE": 90,
+   "OTHER OUTSIDE FORCE DAMAGE": 84,
+   "OTHER ACCIDENT CAUSE": 54,
+   "OTHER INCIDENT CAUSE": 35,
+   "PIPE, WELD, OR JOINT FAILURE": 16
+  },
+  "tx_kw_any_total": 338,
+  "cause_code_for_cyber_exists": false,
+  "national_intentional_damage_reports": 38,
+  "national_intentional_subtypes": {
+   "VANDALISM": 22,
+   "OTHER": 8,
+   "THEFT OF EQUIPMENT": 4,
+   "THEFT OF TRANSPORTED COMMODITY": 4
+  },
+  "national_intentional_terrorism": 0,
+  "forms_reviewed": [
+   "PHMSA F 7100.1 (rev 9-2023)",
+   "PHMSA F 7100.2 (rev 9-2023)",
+   "PHMSA F 7000-1 (rev 3-2021)"
+  ],
+  "forms_contain_word_cyber": false,
+  "colonial_reports_may_jun_2021": 0,
+  "screen_initial_false_positives": 3
+ },
+ "oe417": {
+  "national_events": 3372,
+  "year_min": 2011,
+  "year_max": 2023,
+  "tx_events": 419,
+  "tx_share_pct": 12.4,
+  "tx_by_area_only": 63,
+  "tx_by_nerc_only": 5,
+  "national_cyber_type": 41,
+  "national_cyber_any": 58,
+  "national_cyber_any_pct": 1.7,
+  "tx_cyber_type": 8,
+  "tx_cyber_any": 11,
+  "tx_cyber_any_pct": 2.6,
+  "national_control_center_loss": 295,
+  "tx_control_center_loss": 31,
+  "alert_criteria_years": "2015 onward",
+  "raw_event_type_labels": 189,
+  "n_categories": 9,
+  "categories_national": {
+   "weather_natural_disaster": 1245,
+   "physical_attack_vandalism": 927,
+   "system_operations_equipment": 442,
+   "transmission_distribution_islanding": 235,
+   "suspicious_activity": 222,
+   "other_unknown": 92,
+   "fuel_supply": 85,
+   "supply_adequacy_load_shed": 83,
+   "cyber": 41
+  },
+  "categories_tx": {
+   "weather_natural_disaster": 176,
+   "physical_attack_vandalism": 61,
+   "system_operations_equipment": 55,
+   "suspicious_activity": 41,
+   "transmission_distribution_islanding": 33,
+   "supply_adequacy_load_shed": 28,
+   "fuel_supply": 9,
+   "cyber": 8,
+   "other_unknown": 8
+  },
+  "national_cyber_alert_noncyber_type": 17,
+  "tx_cyber_alert_noncyber_type": 3,
+  "noncyber_types_on_cyber_alerts": {
+   "System Operations": 9,
+   "Suspicious Activity": 5,
+   "Other": 1,
+   "Severe Weather": 1,
+   "- Unknown": 1
+  },
+  "tx_cyber_with_reported_loss": 0,
+  "tx_cyber_years": "2012-2023",
+  "tx_control_center_loss_by_year": {
+   "2018": 3,
+   "2019": 2,
+   "2020": 6,
+   "2021": 10,
+   "2022": 7,
+   "2023": 3
+  },
+  "cyber_with_customer_loss": 2,
+  "cyber_with_demand_loss": 2
+ }
+}
